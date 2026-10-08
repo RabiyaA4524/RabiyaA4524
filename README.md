@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Rabiya 👋
 
-<!--
-**RabiyaA4524/RabiyaA4524** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring SOC Analyst | Cybersecurity Student @ Riphah International University**
 
-Here are some ideas to get you started:
+I am a cybersecurity student with a strong interest in security monitoring, threat detection, and incident response. I have a solid foundation in networking, security principles, and threat analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have hands-on experience with **Wazuh**, where I worked on log monitoring and alert analysis. I am building my skills in alert triage and in telling real threats from false positives. I follow current threat trends and keep learning new tools to detect and reduce security risks.
+
+My goal is to start my career as a SOC analyst, where I can monitor, investigate, and respond to security incidents and help protect an organization's systems.
+
+## 🛠️ Skills
+- Wazuh: log monitoring and alert analysis
+- Alert triage: real threats vs false positives
+- Networking, security principles, threat analysis
+
+## 📜 Certification & Practice
+- Hackviser CORE
+- Active on TryHackMe
+
+## 📫 Connect
+- [LinkedIn](https://www.linkedin.com/in/rabiya-arshad-m37/)
+- [TryHackMe](https://tryhackme.com/p/rootAurora)
